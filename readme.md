@@ -20,11 +20,32 @@ Just run:
 ```sh
 pipenv install
 ```
-Automatically retrieve the packages saved previously in the Pipfile.lock
+Automatically retrieves the packages saved previously in the Pipfile.lock
 
 ## Running
+Use:
+```sh
+pipenv shell
+```
+To enter in the pipenv interactive mode, then run:
+```sh
+python3 manage.py migrate
+```
+It will create the database in sqlite format and also run migrations for tables creation.
+
+*Recommended superuser(admin) creation, it will helps to manage data in the UI
+Then we can run the project as simple as:
+```sh
+python3 manage.py createsuperuser
+```
+
+Then we can run the project as simple as:
+```sh
+python3 manage.py runserver
+```
 
 ## Base
 
 
 ## Changes
+
