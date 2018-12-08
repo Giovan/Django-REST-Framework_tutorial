@@ -29,6 +29,7 @@ pipenv shell
 ```
 To enter in the pipenv interactive mode
 
+
 Then run:
 ```sh
 python3 manage.py migrate
@@ -36,10 +37,12 @@ python3 manage.py migrate
 
 It will create the database in sqlite format and also run migrations for tables creation; sqlite is used for tutorial version and easy access to functionalities, in your product use a stable and production ready database (Poastgres, MySQL, Mongo, Oracle)
 
+
 *Recommended superuser(admin) creation, it will helps to manage data in the UI
 ```sh
 python3 manage.py createsuperuser
 ```
+
 
 Then we can run the project as simple as:
 ```sh
