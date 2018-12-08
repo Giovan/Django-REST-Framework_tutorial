@@ -13,9 +13,14 @@ brew install pipenv
 ```
 ("assuming that you are using mac os")
 
-Give a start to the [Pipenv repo](https://github.com/pypa/pipenv/) and also you can say [thanks](https://saythanks.io/to/kennethreitz) to kennethreitz gor the awesome job.
+Give a start to the [Pipenv repo](https://github.com/pypa/pipenv/) and also you can say [thanks](https://saythanks.io/to/kennethreitz) to kennethreitz for the awesome job in this wonderful tool.
 
 ## Installation
+Just run:
+```sh
+pipenv install
+```
+Automatically retrieve the packages saved previously in the Pipfile.lock
 
 ## Running
 
