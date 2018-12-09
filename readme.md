@@ -55,6 +55,13 @@ Tree of directory
 tree
 ```
 
+Doesn't works?
+```sh
+brew install tree
+```
+
+
+```sh
 .
 ├── Pipfile
 ├── Pipfile.lock
@@ -83,6 +90,7 @@ tree
     ├── views.mixins.py.bak
     ├── views.py
     └── views.py.bak
+```
 
 ## Changes
 
