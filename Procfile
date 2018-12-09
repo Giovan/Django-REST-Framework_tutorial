@@ -1,2 +1,2 @@
 release: python manage.py migrate --no-input
-web: gunicorn apiconfig.wsgi
+web: uwsgi wsgi/uwsgi.ini
