@@ -61,7 +61,7 @@ GET:
 <p><a href="http://localhost:8000"><img src="https://namoxbase.ams3.cdn.digitaloceanspaces.com/Screen%20Shot%202018-12-08%20at%207.02.17%20PM.png" alt="drf-get-method-runnig"></a></p>
 
 POST:
-<p><a href="http://localhost:8000"><img src="https://namoxbase.ams3.cdn.digitaloceanspaces.com/Screen%20Shot%202018-12-08%20at%206.47.04%20PM.png" alt="drf-snippets-post-method-ok"></a></p>
+<p><a href="http://localhost:8000"><img src="https://namoxbase.ams3.cdn.digitaloceanspaces.com/Screen%20Shot%202018-12-08%20at%207.02.17%20PM.png" alt="drf-snippets-post-method-ok"></a></p>
 
 
 ## Base
