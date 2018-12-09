@@ -25,7 +25,7 @@ SECRET_KEY = 'pumajwil&tlk^=uwbcf8wg9n7apd74y#u8_3a&620uszej!sj4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [https://drf-python-tutorial.herokuapp.com/]
+ALLOWED_HOSTS = ['https://drf-python-tutorial.herokuapp.com/']
 
 # Application definition
 INSTALLED_APPS = [
