@@ -13,6 +13,10 @@ pygments = "*"
 httpie = "*"
 pyyaml = "*"
 coreapi-cli = "*"
+uwsgi = "*"
+django-heroku = "*"
+gunicorn = "*"
+pipenv-to-requirements = "*"
 
 [dev-packages]
 
