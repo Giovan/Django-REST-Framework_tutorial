@@ -7,7 +7,7 @@ Find the original repo for project structure and names in the [oficial repo](htt
 ## Pre-requisites
 It make use of Pipenv a wonderful tool that aims to bring the best of all packaging worlds to the Python world. [Extracted from the oficial documentation](https://pipenv.readthedocs.io/en/latest/).
 
-Installation is simple as:
+Installation with brew is simple as:
 ```sh
 brew install pipenv
 ```
@@ -16,7 +16,7 @@ brew install pipenv
 Give a start to the [Pipenv repo](https://github.com/pypa/pipenv/) and also you can say [thanks](https://saythanks.io/to/kennethreitz) to kennethreitz for the awesome job in this wonderful tool.
 
 ## Installation
-Just run:
+Run:
 ```sh
 pipenv install
 ```
@@ -50,7 +50,39 @@ python3 manage.py runserver
 ```
 
 ## Base
+Tree of directory
+```sh
+tree
+```
 
+.
+├── Pipfile
+├── Pipfile.lock
+├── apiconfig
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── db.sqlite3
+├── manage.py
+├── readme.md
+└── snippets
+    ├── __init__.py
+    ├── admin.py
+    ├── apps.py
+    ├── migrations
+    │   ├── 0001_initial.py
+    │   └── __init__.py
+    ├── models.py
+    ├── permissions.py
+    ├── serializers.py
+    ├── serializers.py.bak
+    ├── tests.py
+    ├── urls.py
+    ├── urls.py.bak
+    ├── views.mixins.py.bak
+    ├── views.py
+    └── views.py.bak
 
 ## Changes
 
