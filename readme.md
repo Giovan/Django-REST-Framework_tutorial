@@ -50,7 +50,7 @@ python3 manage.py runserver
 ```
 
 You get this response in console:
-<p align="center"><a href="http://localhost:8000"><img src="https://namoxbase.ams3.cdn.digitaloceanspaces.com/Screen%20Shot%202018-12-08%20at%206.47.04%20PM.png" alt="drf-snippets"></a></p>
+<p><a href="http://localhost:8000"><img src="https://namoxbase.ams3.cdn.digitaloceanspaces.com/Screen%20Shot%202018-12-08%20at%206.47.04%20PM.png" alt="drf-snippets"></a></p>
 
 Project in action
 <p align="center"><a href="http://localhost:8000"><img src="https://namoxbase.ams3.cdn.digitaloceanspaces.com/Screen%20Shot%202018-12-08%20at%207.01.00%20PM.png" alt="drf-snippets"></a></p>
