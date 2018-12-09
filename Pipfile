@@ -34,7 +34,7 @@ Markdown = "==3.0.1"
 MarkupSafe = "==1.1.0"
 Pygments = "==2.3.0"
 PyYAML = "==3.13"
-uwsgi = "*"
+uwsgi = "==2.0.17"
 
 [dev-packages]
 
