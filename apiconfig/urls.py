@@ -26,7 +26,7 @@ schema_view = get_schema_view(title='Who is in me API')
 
 urlpatterns = [
     path('snippets/', include(snippets_urls)),
-    #path('', admin.site.urls),
+    path('', include(snippets_urls)),
     path('admin/', admin.site.urls),
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
     url(r'^v1/api/', include(snippets_urls)),
