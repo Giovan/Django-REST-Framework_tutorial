@@ -33,7 +33,7 @@ Django = "==2.1.4"
 Markdown = "==3.0.1"
 MarkupSafe = "==1.1.0"
 Pygments = "==2.3.0"
-PyYAML = "==3.13"
+PyYAML = "==5.4"
 uwsgi = "==2.0.15"
 
 [dev-packages]
